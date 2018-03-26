@@ -1,0 +1,6 @@
+C:\SoftUni\ProgrammingFundamentals\ProgrammingFundamentals\01.Intro and Basic SyntaxLab\01. Greeting\bin\Debug\_01.Greeting.exe.config
+C:\SoftUni\ProgrammingFundamentals\ProgrammingFundamentals\01.Intro and Basic SyntaxLab\01. Greeting\bin\Debug\_01.Greeting.exe
+C:\SoftUni\ProgrammingFundamentals\ProgrammingFundamentals\01.Intro and Basic SyntaxLab\01. Greeting\bin\Debug\_01.Greeting.pdb
+C:\SoftUni\ProgrammingFundamentals\ProgrammingFundamentals\01.Intro and Basic SyntaxLab\01. Greeting\obj\Debug\01. Greeting.csprojResolveAssemblyReference.cache
+C:\SoftUni\ProgrammingFundamentals\ProgrammingFundamentals\01.Intro and Basic SyntaxLab\01. Greeting\obj\Debug\_01.Greeting.exe
+C:\SoftUni\ProgrammingFundamentals\ProgrammingFundamentals\01.Intro and Basic SyntaxLab\01. Greeting\obj\Debug\_01.Greeting.pdb

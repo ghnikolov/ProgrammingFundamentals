@@ -1,0 +1,5 @@
+C:\SoftUni\ProgrammingFundamentals\ProgrammingFundamentals\01.Intro and Basic SyntaxLab\02. Add Two Numbers\bin\Debug\_02.Add_Two_Numbers.exe.config
+C:\SoftUni\ProgrammingFundamentals\ProgrammingFundamentals\01.Intro and Basic SyntaxLab\02. Add Two Numbers\bin\Debug\_02.Add_Two_Numbers.exe
+C:\SoftUni\ProgrammingFundamentals\ProgrammingFundamentals\01.Intro and Basic SyntaxLab\02. Add Two Numbers\bin\Debug\_02.Add_Two_Numbers.pdb
+C:\SoftUni\ProgrammingFundamentals\ProgrammingFundamentals\01.Intro and Basic SyntaxLab\02. Add Two Numbers\obj\Debug\_02.Add_Two_Numbers.exe
+C:\SoftUni\ProgrammingFundamentals\ProgrammingFundamentals\01.Intro and Basic SyntaxLab\02. Add Two Numbers\obj\Debug\_02.Add_Two_Numbers.pdb

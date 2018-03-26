@@ -1,0 +1,5 @@
+C:\SoftUni\ProgrammingFundamentals\ProgrammingFundamentals\01.Intro and Basic SyntaxLab\03. Employee Data\bin\Debug\_03.Employee_Data.exe.config
+C:\SoftUni\ProgrammingFundamentals\ProgrammingFundamentals\01.Intro and Basic SyntaxLab\03. Employee Data\bin\Debug\_03.Employee_Data.exe
+C:\SoftUni\ProgrammingFundamentals\ProgrammingFundamentals\01.Intro and Basic SyntaxLab\03. Employee Data\bin\Debug\_03.Employee_Data.pdb
+C:\SoftUni\ProgrammingFundamentals\ProgrammingFundamentals\01.Intro and Basic SyntaxLab\03. Employee Data\obj\Debug\_03.Employee_Data.exe
+C:\SoftUni\ProgrammingFundamentals\ProgrammingFundamentals\01.Intro and Basic SyntaxLab\03. Employee Data\obj\Debug\_03.Employee_Data.pdb
