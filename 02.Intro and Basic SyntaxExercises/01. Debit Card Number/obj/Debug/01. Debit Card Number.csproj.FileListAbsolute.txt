@@ -1,0 +1,5 @@
+C:\SoftUni\ProgrammingFundamentals\ProgrammingFundamentals\02.Intro and Basic SyntaxExercises\01. Debit Card Number\bin\Debug\_01.Debit_Card_Number.exe.config
+C:\SoftUni\ProgrammingFundamentals\ProgrammingFundamentals\02.Intro and Basic SyntaxExercises\01. Debit Card Number\bin\Debug\_01.Debit_Card_Number.exe
+C:\SoftUni\ProgrammingFundamentals\ProgrammingFundamentals\02.Intro and Basic SyntaxExercises\01. Debit Card Number\bin\Debug\_01.Debit_Card_Number.pdb
+C:\SoftUni\ProgrammingFundamentals\ProgrammingFundamentals\02.Intro and Basic SyntaxExercises\01. Debit Card Number\obj\Debug\_01.Debit_Card_Number.exe
+C:\SoftUni\ProgrammingFundamentals\ProgrammingFundamentals\02.Intro and Basic SyntaxExercises\01. Debit Card Number\obj\Debug\_01.Debit_Card_Number.pdb

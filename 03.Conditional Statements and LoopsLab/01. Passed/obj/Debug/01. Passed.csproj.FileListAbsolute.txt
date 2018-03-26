@@ -1,0 +1,5 @@
+C:\SoftUni\ProgrammingFundamentals\ProgrammingFundamentals\03.Conditional Statements and LoopsLab\01. Passed\bin\Debug\_01.Passed.exe.config
+C:\SoftUni\ProgrammingFundamentals\ProgrammingFundamentals\03.Conditional Statements and LoopsLab\01. Passed\bin\Debug\_01.Passed.exe
+C:\SoftUni\ProgrammingFundamentals\ProgrammingFundamentals\03.Conditional Statements and LoopsLab\01. Passed\bin\Debug\_01.Passed.pdb
+C:\SoftUni\ProgrammingFundamentals\ProgrammingFundamentals\03.Conditional Statements and LoopsLab\01. Passed\obj\Debug\_01.Passed.exe
+C:\SoftUni\ProgrammingFundamentals\ProgrammingFundamentals\03.Conditional Statements and LoopsLab\01. Passed\obj\Debug\_01.Passed.pdb

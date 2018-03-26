@@ -1,0 +1,5 @@
+C:\SoftUni\ProgrammingFundamentals\ProgrammingFundamentals\02.Intro and Basic SyntaxExercises\04. Beverage Labels\bin\Debug\_04.Beverage_Labels.exe.config
+C:\SoftUni\ProgrammingFundamentals\ProgrammingFundamentals\02.Intro and Basic SyntaxExercises\04. Beverage Labels\bin\Debug\_04.Beverage_Labels.exe
+C:\SoftUni\ProgrammingFundamentals\ProgrammingFundamentals\02.Intro and Basic SyntaxExercises\04. Beverage Labels\bin\Debug\_04.Beverage_Labels.pdb
+C:\SoftUni\ProgrammingFundamentals\ProgrammingFundamentals\02.Intro and Basic SyntaxExercises\04. Beverage Labels\obj\Debug\_04.Beverage_Labels.exe
+C:\SoftUni\ProgrammingFundamentals\ProgrammingFundamentals\02.Intro and Basic SyntaxExercises\04. Beverage Labels\obj\Debug\_04.Beverage_Labels.pdb

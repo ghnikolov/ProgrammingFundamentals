@@ -1,0 +1,5 @@
+C:\SoftUni\ProgrammingFundamentals\ProgrammingFundamentals\02.Intro and Basic SyntaxExercises\02. Rectangle Area\bin\Debug\_02.Rectangle_Area.exe.config
+C:\SoftUni\ProgrammingFundamentals\ProgrammingFundamentals\02.Intro and Basic SyntaxExercises\02. Rectangle Area\bin\Debug\_02.Rectangle_Area.exe
+C:\SoftUni\ProgrammingFundamentals\ProgrammingFundamentals\02.Intro and Basic SyntaxExercises\02. Rectangle Area\bin\Debug\_02.Rectangle_Area.pdb
+C:\SoftUni\ProgrammingFundamentals\ProgrammingFundamentals\02.Intro and Basic SyntaxExercises\02. Rectangle Area\obj\Debug\_02.Rectangle_Area.exe
+C:\SoftUni\ProgrammingFundamentals\ProgrammingFundamentals\02.Intro and Basic SyntaxExercises\02. Rectangle Area\obj\Debug\_02.Rectangle_Area.pdb

@@ -1,0 +1,5 @@
+C:\SoftUni\ProgrammingFundamentals\ProgrammingFundamentals\02.Intro and Basic SyntaxExercises\03. Miles to Kilometers\bin\Debug\_03.Miles_to_Kilometers.exe.config
+C:\SoftUni\ProgrammingFundamentals\ProgrammingFundamentals\02.Intro and Basic SyntaxExercises\03. Miles to Kilometers\bin\Debug\_03.Miles_to_Kilometers.exe
+C:\SoftUni\ProgrammingFundamentals\ProgrammingFundamentals\02.Intro and Basic SyntaxExercises\03. Miles to Kilometers\bin\Debug\_03.Miles_to_Kilometers.pdb
+C:\SoftUni\ProgrammingFundamentals\ProgrammingFundamentals\02.Intro and Basic SyntaxExercises\03. Miles to Kilometers\obj\Debug\_03.Miles_to_Kilometers.exe
+C:\SoftUni\ProgrammingFundamentals\ProgrammingFundamentals\02.Intro and Basic SyntaxExercises\03. Miles to Kilometers\obj\Debug\_03.Miles_to_Kilometers.pdb

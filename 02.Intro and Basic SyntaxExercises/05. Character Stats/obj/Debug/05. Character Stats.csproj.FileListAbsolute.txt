@@ -1,0 +1,5 @@
+C:\SoftUni\ProgrammingFundamentals\ProgrammingFundamentals\02.Intro and Basic SyntaxExercises\05. Character Stats\bin\Debug\_05.Character_Stats.exe.config
+C:\SoftUni\ProgrammingFundamentals\ProgrammingFundamentals\02.Intro and Basic SyntaxExercises\05. Character Stats\bin\Debug\_05.Character_Stats.exe
+C:\SoftUni\ProgrammingFundamentals\ProgrammingFundamentals\02.Intro and Basic SyntaxExercises\05. Character Stats\bin\Debug\_05.Character_Stats.pdb
+C:\SoftUni\ProgrammingFundamentals\ProgrammingFundamentals\02.Intro and Basic SyntaxExercises\05. Character Stats\obj\Debug\_05.Character_Stats.exe
+C:\SoftUni\ProgrammingFundamentals\ProgrammingFundamentals\02.Intro and Basic SyntaxExercises\05. Character Stats\obj\Debug\_05.Character_Stats.pdb
